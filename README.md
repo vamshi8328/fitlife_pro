@@ -1,1 +1,0 @@
-<iframe src="https://claude.site/public/artifacts/789bf7be-c9b1-4833-8f49-a93922971279/embed" title="GYMVERSE_ULTIMATE_FINAL.html" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
